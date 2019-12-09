@@ -1,0 +1,2 @@
+# minurljs
+minimalistic url builder
